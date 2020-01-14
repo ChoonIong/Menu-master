@@ -46,4 +46,5 @@
     <string name="editcurrentpass">Current Password</string>
     <string name="garbage_collection_service">Garbage Collection Service</string>
     <string name="edit_profile">Edit Profile</string>
+    <string name="user_profile">User Profile</string>
 </resources>
